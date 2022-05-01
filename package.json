@@ -1,0 +1,23 @@
+{
+  "name": "ethersjs-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouseless-eth/EthersJS-Template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mouseless-eth/EthersJS-Template/issues"
+  },
+  "homepage": "https://github.com/mouseless-eth/EthersJS-Template#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.4"
+  }
+}
